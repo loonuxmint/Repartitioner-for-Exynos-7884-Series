@@ -1,9 +1,8 @@
-A universal repartitioner for the Exynos 7884 line of devices (A10, A20, A20e, A30, A30s and A40)
+A universal repartitioner for devices in the Exynos 7884 lineup (A10, A20, A20e, A30, A30s, and A40).
 
-Got any bugs or issues? Reply to the thread on XDA Developers or create a GitHub Issue about it, we are happy to help!
+Experiencing any bugs or issues? Feel free to reply to the thread on XDA Developers or create a GitHub Issue about it. We're here to assist!
 
-
-Our version structure will be as follows:
+## Our version structure will be as follows:
 
 * X.0 - Major release usually with new features and major bug fixes, including emergency patches.
 * X.0.X - Emergency releases or major bug fixes.
